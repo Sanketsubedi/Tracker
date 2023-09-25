@@ -2,16 +2,6 @@
 
 This is Online Lost and Found System developed and completed during Sept. 2023.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Thank You](#thankyou)
-
 ## Introduction
 
 OLFS (Online Lost and Found System), which is a web app designed to efficiently connect individuals who have lost their belongings with those who have found them. The app features a user-friendly interface and posting mechanism to make the retrieval process easier and more efficient. The use of technologies like HTML, CSS, JS, PHP and SCSS have given us the opportunity to develop such a website. Furthermore, there is a secure data management system and md5 encryption method that ensures the safety and privacy of user data. The goal of the platform is to simplify and improve the process of reuniting owners with their lost belongings. To that end, the platform leverages the power of technology, while also encouraging community engagement. By harnessing the collective power of users, the platform is able to create a network of support that can help make retrieving lost items a much smoother and more successful experience.
