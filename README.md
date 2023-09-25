@@ -35,7 +35,7 @@ To use Tracker, follow these steps:
 - Configure Database Connection: Update the database connection details in the PHP files located in the project to match your local database settings.
 
 - Run the Application: Start the XAMPP Server and open your web browser. Navigate to http://localhost/tracker/user_panel to access the TVMS application as user.
-  Navigate to http://localhost/tracker/admin_panel to access the TVMS application as user.
+  Navigate to http://localhost/tracker/admin_panel to access the TVMS application as admin.
 
 
 ## Contributing
