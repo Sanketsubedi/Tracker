@@ -41,12 +41,11 @@ To use Tracker, follow these steps:
 ## Contributing
 
 This project is a result of collaborative efforts. Contributions, bug reports, and feedback are welcome from the open-source community. This project can be established in your own places which might include colleges, cafes, etc.
-If any support is required me and my team are here for you all just contact us through tracker@gmail.com
 
 ## License
 
 TVMS is distributed under the [MIT License](LICENSE).
 
-## thankyou
-We wanted to take a moment to express our heartfelt thanks for choosing Tracker as your Online Lost and Found System. Your decision to trust us with the important task of helping you recover lost items means the world to us.
+## Thank You
+We wanted to take a moment to express our heartfelt thanks for choosing Tracker as your Online Lost and Found System. Your decision to trust us with the important task of helping you recover lost items means the world to us.If any support is required me and my team are here for you all just contact us through tracker@gmail.com
 
