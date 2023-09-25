@@ -61,7 +61,7 @@ session_start();
                 $result = mysqli_query($con, $query);
 
                 // Send the reset email
-                $resetLink = "192.168.1.66/Tracker/user_panel/acc_activate.php?token=$token"; // URL to your password reset page
+                $resetLink = "localhost/Tracker/user_panel/acc_activate.php?token=$token"; // URL to your password reset page
     
                 // Recipients
                 $mail->setFrom('olfstracker@gmail.com', 'OLFS');

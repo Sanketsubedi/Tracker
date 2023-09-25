@@ -30,7 +30,7 @@ function sendMail($email, $v_code)
         $mail->Subject = 'Email Verification';
         $mail->Body = "THANKS fOR REGRISTRATION!
         Click the link to verify the email address
-        <a href='192.168.1.66/Tracker/user_panel/verify.php?email=$email&v_code=$v_code'>Verify</a>";
+        <a href='localhost/Tracker/user_panel/verify.php?email=$email&v_code=$v_code'>Verify</a>";
 
         $mail->send();
         return true;
