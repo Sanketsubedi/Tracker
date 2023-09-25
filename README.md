@@ -44,7 +44,7 @@ This project is a result of collaborative efforts. Contributions, bug reports, a
 
 ## License
 
-TVMS is distributed under the [MIT License](LICENSE).
+Tracker is distributed under the [MIT License](LICENSE).
 
 ## Thank You
 We wanted to take a moment to express our heartfelt thanks for choosing Tracker as your Online Lost and Found System. Your decision to trust us with the important task of helping you recover lost items means the world to us. If any support is required me and my team are here for you all just contact us through tracker@gmail.com
