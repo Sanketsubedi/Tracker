@@ -1,6 +1,6 @@
 # Tracker
-
-This is Online Lost and Found System developed and completed during Sept. 2023.
+![Project Logo](user_panel/1_white.png)
+This is Online Lost and Found System developed By [Sachin Sapkota](https://github.com/Mercyenary), [Saurav Chaulagain](), [Gaurav Dulal](https://github.com/GauravDulal), [Sanket Subedi](https://github.com/Sanketsubedi) and completed during Sept. 2023.
 
 ## Introduction
 
